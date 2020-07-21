@@ -1,0 +1,6 @@
+## Title: Trade Rating
+## APIVersion: 100031
+## Author: Vishnu Velugoti, Nanda Velugoti
+## Description: Trade Rating is an ESO Add-on that enables players to rate a trade/transaction made in the game.
+
+TradeRating.lua
